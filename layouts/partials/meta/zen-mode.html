@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {{ $jsZenMode := resources.Get "js/zen-mode.js" }}
 {{ $jsZenMode = $jsZenMode | resources.Minify | resources.Fingerprint "sha256" }}
 
@@ -11,4 +12,15 @@
           data-title-i18n-enable="{{ i18n "article.zen_mode_title.disable" }}">
         <span class="inline-block align-text-bottom">{{ partial "icon.html" "expand" }}</span>
     </span>
+=======
+<span class="mb-[2px]">
+  <span
+    id="zen-mode-button"
+    class="text-lg hover:text-primary-500"
+    title="{{ i18n "article.zen_mode_title.enable" }}"
+    data-title-i18n-disable="{{ i18n "article.zen_mode_title.enable" }}"
+    data-title-i18n-enable="{{ i18n "article.zen_mode_title.disable" }}">
+    <span class="inline-block align-text-bottom">{{ partial "icon.html" "expand" }}</span>
+  </span>
+>>>>>>> f9eb1d4e811d6da744848c35fb842cf386f6df39
 </span>

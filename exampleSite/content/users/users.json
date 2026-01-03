@@ -353,14 +353,6 @@
     ]
   },
   {
-    "title": "adilhyz.github.io",
-    "url": "https://adilhyz.github.io",
-    "source": "n/a",
-    "tags": [
-      "Personal site"
-    ]
-  },
-  {
     "title": "ohdmire.github.io",
     "url": "https://ohdmire.github.io",
     "source": "n/a",
@@ -387,14 +379,6 @@
   {
     "title": "joush007.github.io",
     "url": "https://joush007.github.io",
-    "source": "n/a",
-    "tags": [
-      "Personal Site"
-    ]
-  },
-  {
-    "title": "rejowski.xyz",
-    "url": "https://rejowski.xyz/",
     "source": "n/a",
     "tags": [
       "Personal Site"
@@ -559,25 +543,6 @@
     ]
   },
   {
-    "title": "MEM v ENNBEE",
-    "url": "https://memv.ennbee.uk/",
-    "source": "https://github.com/ennnbeee/ennnbeee.github.io",
-    "tags": [
-      "Technology Blog",
-      "Personal site"
-    ]
-  },
-  {
-    "title": "Joshua Blais",
-    "url": "https://joshblais.com/",
-    "source": "n/a",
-    "tags": [
-      "Personal Site",
-      "Author",
-      "Digital Garden"
-    ]
-  },
-  {
     "title": "Beauty Formulation",
     "url": "https://www.beautyformulation.com/",
     "source": "n/a",
@@ -610,16 +575,6 @@
     "source": "n/a",
     "tags": [
       "Personal Site"
-    ]
-  },
-  {
-    "title": "micheledinelli.github.io",
-    "url": "https://micheledinelli.github.io",
-    "source": "n/a",
-    "tags": [
-      "Personal Site",
-      "Portfolio Site",
-      "Academia"
     ]
   },
   {
@@ -658,15 +613,6 @@
     ]
   },
   {
-    "title": "hetong-re4per.com",
-    "url": "https://hetong-re4per.com",
-    "source": "https://github.com/HeTongRe4per/HeTongRe4per.github.io",
-    "tags": [
-      "Personal site",
-      "Blog"
-    ]
-  },
-  {
     "title": "lazarusoverlook.com",
     "url": "https://lazarusoverlook.com",
     "source": "https://github.com/RolandMarchand/lazarus-manor",
@@ -701,27 +647,6 @@
       "Personal site",
       "Software Developer",
       "Blog"
-    ]
-  },
-  {
-    "title": "Everybody Wants Some",
-    "url": "https://ews.ink/",
-    "source": "https://github.com/unacro/blog",
-    "tags": [
-      "Blog",
-      "Technology",
-      "Game Development"
-    ]
-  },
-  {
-    "title": "merox.dev",
-    "url": "https://merox.dev",
-    "source": "https://github.com/mer0x/merox.dev",
-    "tags": [
-      "Personal site",
-      "Blog",
-      "Documentation",
-      "CV"
     ]
   },
   {
@@ -796,15 +721,6 @@
     "tags": [
       "Author Site",
       "Blog"
-    ]
-  },
-  {
-    "title": "ZSL",
-    "url": "https://blog.zsl0621.cc/",
-    "source": "https://github.com/ZhenShuo2021/ZhenShuo2021.github.io",
-    "tags": [
-      "Blog",
-      "Personal Site"
     ]
   },
   {
@@ -897,6 +813,165 @@
     "source": "n/a",
     "tags": [
       "Personal Site",
+      "Blog"
+    ]
+  },
+  {
+    "title": "abantikabhuti.github.io",
+    "url": "https://abantikabhuti.github.io",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "yag0x1.github.io",
+    "url": "https://yag0x1.github.io",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Learn-Software.com",
+    "url": "https://learn-software.com",
+    "source": "https://github.com/learn-software-engineering/website",
+    "tags": [
+      "Personal Website",
+      "Tech Blog",
+      "Learning",
+      "Software Engineering",
+      "Programming",
+      "Artificial intelligence"
+    ]
+  },
+  {
+    "title": "mitri.lol",
+    "url": "https://mitri.lol",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Fun Project"
+    ]
+  },
+  {
+    "title": "kieranlowe.io",
+    "url": "https://kieranlowe.io",
+    "source": "n/a",
+    "tags": [
+      "Technology Blog"
+    ]
+  },
+  {
+    "title": "eike.in",
+    "url": "https://eike.in",
+    "source": "https://github.com/LarvenStein/eike.in",
+    "tags": [
+      "Personal site",
+      "Portfolio"
+    ]
+  },
+  {
+    "title": "Dan Davidson | Where Crypto, Charts and Curiosity Collide",
+    "url": "https://danly.io",
+    "source": "n/a",
+    "tags": [
+      "Personal site",
+      "Technology Blog"
+    ]
+  },
+  {
+    "title": "tbsch.de | Smart Home, Technik, Kram",
+    "url": "https://tbsch.de",
+    "source": "n/a",
+    "tags": [
+      "Personal site"
+    ]
+  },
+  {
+    "title": "metalhearf.fr",
+    "url": "https://metalhearf.fr",
+    "source": "n/a",
+    "tags": [
+      "Blog",
+      "Personal site"
+    ]
+  },
+  {
+    "title": "encelo.github.io",
+    "url": "https://encelo.github.io/",
+    "source": "https://github.com/encelo/encelo.github.io",
+    "tags": [
+      "Personal site",
+      "Blog"
+    ]
+  },
+  {
+    "title": "ncine.github.io",
+    "url": "https://ncine.github.io/",
+    "source": "https://github.com/nCine/nCine-site",
+    "tags": [
+      "Project site"
+    ]
+  },
+  {
+    "title": "István Merza",
+    "url": "https://www.merza.is/",
+    "source": "https://gitlab.com/istvanmerza/istvanmerza.gitlab.io",
+    "tags": [
+      "Personal site",
+      "Blog",
+      "Tech Blog",
+      "Fun Project",
+      "Learning"
+    ]
+  },
+  {
+    "title": "daytaur.com",
+    "url": "https://daytaur.com/",
+    "source": "n/a",
+    "tags": [
+      "Portfolio",
+      "Environment design"
+    ]
+  },
+  {
+    "title": "zzamboni.org",
+    "url": "https://zzamboni.org/",
+    "source": "https://gitlab.com/zzamboni/zzamboni.org",
+    "tags": [
+      "Personal site",
+      "Blog",
+      "Technology Blog"
+    ]
+  },
+  {
+    "title": "Tower of Kubes",
+    "url": "https://www.towerofkubes.com/",
+    "source": "n/a",
+    "tags": [
+      "Blog",
+      "DevOps",
+      "Personal site",
+      "Technology Blog"
+      ]
+  },
+  {
+    "title": "monpetitdev.fr",
+    "url": "https://monpetitdev.fr/",
+    "tags": [
+      "Personal site",
+      "Blog",
+      "Software Developer"
+    ]
+  },
+  {
+    "title": "Noor Khafidzin",
+    "url": "https://noorkhafidzin.com/",
+    "tags": [
+      "Personal site",
       "Blog"
     ]
   }
